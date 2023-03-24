@@ -1,0 +1,16 @@
+                TEST CASE (87e0c5) UNDER TEST PLAN 1
+
+Description
+
+        Testing the functionality of the "see all bots" button.
+
+Steps:
+    
+    1. Go to https://localhost:4000/.
+
+    2. Click the "See All Bots" button.
+
+
+Post Conditions:
+
+    Clicking the "See All Bots" button should display a list of all bots from the database on the front end

@@ -1,0 +1,44 @@
+                TEST PLAN 1 FOR DUEL DUO
+
+
+Overview:
+
+    Test the functionality of the Duel Duo website:
+
+
+
+Links:
+
+    - https://localhost:4000/
+
+
+
+Test Criteria:
+
+    - New page open with zero wins and zero losses
+
+    - Buttons work:
+
+        - 'See All Bots' shows a list of the bots in the database.
+
+        - 'Add to Duo' removes robot from available robots to pick
+         and adds robot to players hand.
+
+        - 'Remove from Duo' removes robot from hand and puts robot
+         back into the list of abailable robots to pick from.
+
+
+
+Entry Criteria:
+
+    - Server is hosted on local computer
+
+    - Has a non-mobile browswer
+
+
+
+Exit Criteria:
+
+    - All Tests Pass
+
+

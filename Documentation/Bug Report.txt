@@ -1,0 +1,36 @@
+                BUG REPORT (87b-b51)
+
+
+MARCH 24, 2023
+
+Description
+
+    "See All Bots Button Non Functional"
+
+
+
+Steps to Reproduce:
+
+    1. Go to "localhost:4000"
+
+    2. click on the 'See All Bots' button
+
+
+
+Expected Result:
+
+    - Once clicked, the website is expected to display a grid of pictures
+    of the robots pulled from the database
+
+
+
+Actual Result:
+    
+    - Nothing happens
+
+
+
+Environmnet:
+
+    - Version 111.0.5563.110 (Official Build) (x86_64)
+    - Windows 10 Home
